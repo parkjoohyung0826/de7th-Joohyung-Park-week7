@@ -5,7 +5,7 @@ from airflow.providers.standard.operators.empty import EmptyOperator
 from airflow.providers.standard.operators.python import PythonOperator
 
 
-def hello_task():
+def hello_task()
     return "Hello Airflow"
 
 
