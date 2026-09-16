@@ -6,3 +6,4 @@ data/
 *.pem
 .env
 .DS_Store
+.venv/
